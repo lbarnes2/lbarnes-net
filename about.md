@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Luke.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I'm an enthusiast for all things interesting. Molecular Biology graduate from [Cardiff University](cf.ac.uk "Cardiff University"), coffee enthusiast, technology nerd, computer tinkerer and professional problem solver. This is a collection of things I've done, projects I've worked on and other things that interest me.
