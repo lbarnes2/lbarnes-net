@@ -22,11 +22,14 @@ url: "http://lbarnes.net" # the base hostname & protocol for your site
 twitter_username: lbarnes2
 github_username:  lbarnes2
 
+paginate: 5
+
 # Build settings
 markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+  - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock
