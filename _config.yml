@@ -17,7 +17,7 @@ title: Luke Barnes
 email: luke@lbarnes.net
 description: > # this means to ignore newlines until "baseurl:"
   The life and times of me. Meandering thoughts and nerdy musings. Portfolio of work and other projects that look a bit like work if you squint. Always staying curious.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://lbarnes.net" # the base hostname & protocol for your site
 twitter_username: lbarnes2
 github_username:  lbarnes2
