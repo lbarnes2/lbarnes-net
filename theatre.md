@@ -8,6 +8,8 @@ permalink: /about/
 I've worked on a number of production in a variety of roles, including as Technical Stage Manager, Company Stage Manager, Chief LX and Production Manager. I have a wide range of experience in theatre lighting, sound, audiovisual and production management. 
 
 - May 2017: _The Drowsy Chaperone_ at the [Rondo Theatre](http://www.rondotheatre.co.uk/) with [Merriman Productions](http://www.merrimantheatre.com/). Lighting Designer.
+- May 2017: _New Moves_ at the [Victoria Hall](http://victoriahallradstock.co.uk/) with [Bath Dance College](http://bathdancecollege.com/). Production Manager (LX and Sound).
+- May 2017: _Article Fifty Two_ at the [Victoria Hall](http://victoriahallradstock.co.uk/) with [Bath Dance College](http://bathdancecollege.com/). Production Manager (LX and Sound).
 - February 2016: _The Super Mega Rocking Rock Show_ at the [Victoria Hall](http://victoriahallradstock.co.uk/). Technical Stage Manager.
 - January 2016: _MacBeth Re-told by Debs Newbold_ at the [Victoria Hall](http://victoriahallradstock.co.uk/) with [Debs Newbold](http://www.debsnewbold.com). Lighting Designer.
 - December 2016: _A Christmas Cracker_ at the [Victoria Hall](http://victoriahallradstock.co.uk/) with [Bath Dance College](http://bathdancecollege.com/). Production Manager (LX and Sound).
