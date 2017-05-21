@@ -2,6 +2,7 @@
 layout: page
 title: Theatre
 permalink: /about/
+order: 2
 ---
 ## LIGHTING, SOUND AND MAKING THINGS HAPPEN
 

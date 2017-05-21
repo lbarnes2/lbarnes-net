@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /theatre/
+order: 1
 ---
 
 ## IN A LINE:
