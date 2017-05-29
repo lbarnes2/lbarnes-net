@@ -2,7 +2,7 @@
 layout: post
 title:  "Eurostar: I'm Sorry, I love you"
 date:   2017-05-29 22:35:26 +0000
-categories: Eurostar, travel
+categories: Eurostar travel
 ---
 
 In the past I've been (I believe, fairly) quite rude about Eurostar. The organisation at St Pancras International is farcical, the queues are long and always seem without reason and both the website and app has a nasty habit of just not working. That said, today I want to put aside all of that to call out some something good.
