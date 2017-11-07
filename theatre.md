@@ -1,13 +1,16 @@
 ---
 layout: page
 title: Theatre
-permalink: /about/
+permalink: /theatre/
 order: 2
 ---
-## LIGHTING, SOUND AND MAKING THINGS HAPPEN
+## LIGHTING, SOUND, AND MAKING THINGS HAPPEN
 
 I've worked on a number of production in a variety of roles, including as Technical Stage Manager, Company Stage Manager, Chief LX and Production Manager. I have a wide range of experience in theatre lighting, sound, audiovisual and production management. 
 
+- October 2017: _Sing Along ABBA Live_ at [Middleton Cheney Social Club](http://www.middletoncheney.org.uk/social-club.html) with [The Panto Bus](http://www.thepantobus.com). Production Manager (LX, Sound and AV).
+- July 2017: _Bath Dance College End of Year Showcase_ at the [Victoria Hall](http://victoriahallradstock.co.uk/) with [Bath Dance College](http://bathdancecollege.com/). Production Manager (LX and Sound).
+- July 2017: _The Phantom of the Opera_ at the [Dragonfly Theatre](http://www.writhlington.org.uk/extra-curricular/dragonfly-theatre/) with [Merriman Theatre Group](http://www.merrimantheatre.com/). Chief LX & Assistant Lighting Designer.
 - May 2017: _The Drowsy Chaperone_ at the [Rondo Theatre](http://www.rondotheatre.co.uk/) with [Merriman Productions](http://www.merrimantheatre.com/). Lighting Designer.
 - May 2017: _New Moves_ at the [Victoria Hall](http://victoriahallradstock.co.uk/) with [Bath Dance College](http://bathdancecollege.com/). Production Manager (LX and Sound).
 - May 2017: _Article Fifty Two_ at the [Victoria Hall](http://victoriahallradstock.co.uk/) with [Bath Dance College](http://bathdancecollege.com/). Production Manager (LX and Sound).
@@ -22,10 +25,10 @@ I've worked on a number of production in a variety of roles, including as Techni
 - July 2016: _Our House_ at the [Dragonfly Theatre](http://www.writhlington.org.uk/extra-curricular/dragonfly-theatre/) with [Merriman Theatre Group](http://www.merrimantheatre.com/). Chief LX & Assistant Lighting Designer.
 - June 2016: _Shine_ at [Victoria Hall](http://victoriahallradstock.co.uk/) with [BYDC](http://www.bydc.co.uk/). Technical Stage Manager.
 - April 2016: _Sing Along ABBA Live_ at [Victoria Hall](http://victoriahallradstock.co.uk/). Production Manager (LX, Sound and AV).
-- March 2016: _Some Girls: A New Teen Musical** **_at [Victoria Hall](http://victoriahallradstock.co.uk/). Technical Stage Manager.
+- March 2016: _Some Girls: A New Teen Musical_ at [Victoria Hall](http://victoriahallradstock.co.uk/). Technical Stage Manager.
 - March 2016: _Urinetown_ at [Kingswood Theatre](http://kingswoodenterprises.co.uk/theatre-hire/) with [Spare Room Theatre](https://www.facebook.com/spareroomideas). Lighting Programmer. **Winner of David Beach award for Technical Acheivement**
 - February 2016: _\#iDance_ at the [Bath Forum](http://www.theatreshop.org.uk/), with [Susan Hill School of Dancing](http://www.susanhillschoolofdancing.co.uk/). Lighting Designer & Chief LX
-- December 2015: _The Christmassy Christmas Show of Christmassy Christmassness _at [Theatre Shop](http://www.theatreshop.org.uk/), with [BES Systems](http://www.bes-systems.co.uk/). Chief LX.
+- December 2015: _The Christmassy Christmas Show of Christmassy Christmassness_ at [Theatre Shop](http://www.theatreshop.org.uk/), with [BES Systems](http://www.bes-systems.co.uk/). Chief LX.
 - September 2015: _Acorn Antiques_ at the [Rondo Theatre](http://www.rondotheatre.co.uk/) with [Merriman Productions](http://www.merrimantheatre.com/). Lighting Designer.
 - July 2015: _Private Function_ at [Monkton Combe Senior School Theatre](http://www.monktoncombeschool.com/hospitality-leisure/hospitality/events.html) with [MA Entertainment](http://www.maentertainment.co.uk/). Sound 1 & FOH Mix.
 - July 2015: _Bath Dance College End of Year Showcase_ at the [Victoria Hall](http://victoriahallradstock.co.uk/) with [Bath Dance College](http://bathdancecollege.com/). Chief LX & Lighting Designer.

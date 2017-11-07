@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /theatre/
+permalink: /about/
 order: 1
 ---
 
