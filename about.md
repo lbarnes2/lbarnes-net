@@ -11,7 +11,7 @@ Theatre technician and Events manager; trained in the sciences, working in the a
 
 ## IN A PARAGRAPH:
 
-I'm a venue and events manager working at a community arts centre in North East Somerset. I handle diverse aspects of venue management from health and safety to multi-event logistics. I also work as a theatre technician, available for freelance projects including theatre shows, board programming and consulting. I've worked with a range of companies, both large and small and am always looking for new projects and exciting new challenges. If you'd be interested in working with me, please drop me a line.
+I work at a large, multifunction venue in the city of Bath in Operations; I work as part of a team to deliver a wide variety of private events, from conferences to weddings to concerts. I also work as a theatre technician, available for freelance projects including theatre shows, board programming and consulting. I've worked with a range of companies, both large and small and am always looking for new projects and exciting new challenges. If you'd be interested in working with me, please drop me a line.
 
 ## FULL CV:
 
@@ -30,12 +30,12 @@ I’ve been working since December as part of the Front of House team at the New
 Working part time as required at a small professional theatre. Responsibilities include maintenance and development of the theatre’s supply of technical equipment including lighting, sound and AV. This also includes meeting with clients to discuss their technical needs, and providing guest technicians with technical support. Due to the small nature of the venue, I have also stepped in for the Theatre Manager during leave and often take a duty manager role during events.
 
 - Specific Events
-I have worked on a number of major events in my time working both at the Prospect and as a freelance technician and events manager. Visit this section for a full list of events, along with groups and venues that I've worked with.
+I have worked on a number of major events in my time working both at the Prospect and as a freelance technician and events manager. Visit [this section](http://lbarnes.net/theatre) for a full list of events, along with groups and venues that I've worked with.
 
 ### VOLUNTARY WORK
 
-- February 2016 - Present: Trustee of Orchid Conservation International
-- March 2015 – Present: Project Lead at the Global Orchid Schools Network
+- February 2016 - February 2017: Trustee of Orchid Conservation International
+- March 2015 – February 2016: Project Lead at the Global Orchid Schools Network
 - April 2014 – May 2016: Secretary for the Open Access Button
 - September 2013 – December 2013: Volunteer FOH Usher at the New Theatre, Cardiff
 - January 2013 – April 2013: Pyramid Club Leader with Pyramid Cardiff
