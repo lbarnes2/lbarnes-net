@@ -2,7 +2,7 @@
 layout: page
 title: Events Management
 permalink: /events/
-order: 3
+order: 2
 ---
 
 In 2017, I took on a major organisational role on two high profile events.

@@ -8,6 +8,8 @@ order: 2
 
 I've worked on a number of production in a variety of roles, including as Technical Stage Manager, Company Stage Manager, Chief LX and Production Manager. I have a wide range of experience in theatre lighting, sound, audiovisual and production management. 
 
+- December 2017: _A Christmas Cracker_ at the [Victoria Hall](http://victoriahallradstock.co.uk/) with [Bath Dance College](http://bathdancecollege.com/). Production Manager (LX and Sound).
+- November 2017: _Crack me up Comedy_ at [Victoria Hall](http://victoriahallradstock.co.uk/). Production Manager (LX, Sound and AV).
 - October 2017: _Sing Along ABBA Live_ at [Middleton Cheney Social Club](http://www.middletoncheney.org.uk/social-club.html) with [The Panto Bus](http://www.thepantobus.com). Production Manager (LX, Sound and AV).
 - July 2017: _Bath Dance College End of Year Showcase_ at the [Victoria Hall](http://victoriahallradstock.co.uk/) with [Bath Dance College](http://bathdancecollege.com/). Production Manager (LX and Sound).
 - July 2017: _The Phantom of the Opera_ at the [Dragonfly Theatre](http://www.writhlington.org.uk/extra-curricular/dragonfly-theatre/) with [Merriman Theatre Group](http://www.merrimantheatre.com/). Chief LX & Assistant Lighting Designer.
@@ -52,3 +54,4 @@ I've worked on a number of production in a variety of roles, including as Techni
 - July 2012: _Jesus Christ Superstar_ at the [Prospect Theatre](http://www.prospecttheatre.co.uk/), with [Merriman Theatre Group](http://www.merrimantheatre.com/). Chief LX
 - February 2012: _Animal Farm_ at the [Prospect Theatre](http://www.prospecttheatre.co.uk/), with [Writhlington School](http://www.writhlington.org.uk/). Lighting Designer & Chief LX
 - February 2012: _Let’s Dance 2012_ at the [Bath Forum](http://www.bathforum.co.uk/), with [Susan Hill School of Dancing](http://www.susanhillschoolofdancing.co.uk/). Chief LX
+- July 2011: _Oliver!_ at the [Prospect Theatre](http://www.prospecttheatre.co.uk/), with [Merriman Theatre Group](http://www.merrimantheatre.com/). Assistant LX
