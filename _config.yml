@@ -26,7 +26,9 @@ paginate: 5
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
 gems:
   - jekyll-feed
   - jekyll-paginate
